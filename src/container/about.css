@@ -1,0 +1,38 @@
+.Banner{
+    margin-top: 50px;
+    overflow: hidden;
+    width: 150px;
+    height: 350px;
+    border-radius: 20px;
+}
+.img{
+    width: 100%;
+    height:250px;
+    border-radius: 20px;
+}
+.img img{
+    border-radius: 20px;
+    width: 90%;
+    height: 100%;
+    object-fit: cover;
+}
+.slider{
+    width: 70%;
+    margin: auto;
+}
+.Text{
+    margin-top: 50px;
+    width: 150px;
+    height: 20px;
+    font-size: 12px;
+}
+.Garchig{
+    width: 100%;
+    height: 50px;
+    display: flex;
+}
+.Garchig h1{
+    width: 25%;
+    height: 100%;
+    margin: auto;
+}
